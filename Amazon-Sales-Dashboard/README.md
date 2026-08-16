@@ -2,13 +2,13 @@
 
 ## Project Overview
 
-This interactive Power BI dashboard provides an overview of Amazon sales performance through key business metrics and visualizations. It enables users to explore revenue, profit, customer activity, product performance, and sales trends using interactive filters.
+This interactive Power BI dashboard provides an overview of e-commerce sales performance through key metrics and visualizations. It enables users to explore revenue, profit, orders, product performance, geographic performance, and sales trends using interactive filters.
 
 ---
 
 ## Objective
 
-Create an interactive dashboard to monitor sales performance and present key business metrics in a single report.
+Create an interactive dashboard to monitor sales performance and present key e-commerce metrics in a clear two-page report.
 
 ---
 
@@ -17,25 +17,23 @@ Create an interactive dashboard to monitor sales performance and present key bus
 - Power BI
 - Microsoft Excel
 - Power Query
-- DAX
 
 ---
 
 ## Dashboard Preview
-<img width="1346" height="737" alt="Amazondashboard" src="https://github.com/user-attachments/assets/ec82e5c4-d00a-47d4-983f-c2dda2fd6442" />
 
-<img width="1297" height="707" alt="Amazon dashboard1" src="https://github.com/user-attachments/assets/d3ddfa13-6f29-42b7-85ff-56f8705bce87" />
+<img width="1305" height="723" alt="Amazondashboard" src="https://github.com/user-attachments/assets/e365a358-bd4c-4e20-b8c6-d8b6a06ca2cd" />
 
----
+<img width="1262" height="697" alt="Amazondashboard 1" src="https://github.com/user-attachments/assets/182524ae-3cae-4058-b32c-0fca6a6a73bb" />
+
 
 ## Key Performance Indicators (KPIs)
 
-- Total Customers
-- Total Profit
-- Total Revenue
-- Total Orders
-- Average Rating
-- Total Products
+- Total Profit — 75M
+- Total Revenue — 136M
+- Total Orders — 113K
+- Average Rating — 3
+- Total Products — 45
 
 ---
 
@@ -43,11 +41,10 @@ Create an interactive dashboard to monitor sales performance and present key bus
 
 ### Page 1
 
-- Revenue Overview
-- Revenue by Year
+- Revenue and Profit by Year
 - Top 5 Subcategories by Revenue
-- Revenue by Location
-- Total Selling by Product Category
+- Total Revenue by Location
+- Product Category Overview
 - Interactive Filters
   - Year
   - Month
@@ -59,8 +56,7 @@ Create an interactive dashboard to monitor sales performance and present key bus
 
 - Top 5 Products by Revenue
 - Bottom 5 Products by Revenue
-- Monthly Revenue Trend
-- Monthly Profit Trend
+- Monthly Revenue and Profit Trend
 
 ---
 
@@ -68,11 +64,11 @@ Create an interactive dashboard to monitor sales performance and present key bus
 
 The dashboard enables users to:
 
-- View key sales KPIs
-- Compare revenue across years
-- Analyze product category performance
-- Identify top and bottom performing products
-- Explore geographical revenue distribution
+- View key e-commerce KPIs
+- Compare revenue and profit across years
+- Analyze product category and subcategory performance
+- Identify top and bottom products by revenue
+- Explore geographical revenue performance
 - Monitor monthly revenue and profit trends
 - Filter dashboard results interactively
 
@@ -83,8 +79,10 @@ The dashboard enables users to:
 - Power BI Dashboard Development
 - Data Cleaning
 - Data Transformation
-- Data Modeling
-- DAX
 - Power Query
 - KPI Reporting
 - Data Visualization
+- Interactive Filtering
+- Sales Performance Analysis
+- Product Performance Analysis
+```
