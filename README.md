@@ -2,9 +2,9 @@
 
 Hi, I'm **Kaivalya Mulugu** 👋
 
-I'm currently pursuing an **MSc in Business Management (Data Analytics & AI)** in Germany and have professional experience in **IT Support, Business Intelligence, and Business Analytics**.
+I'm currently pursuing an **MSc in Business Management (Data Analytics & AI)** in Germany and have professional experience in **IT Support and E-commerce & Marketplace Operations**, alongside hands-on experience in data analysis and reporting.
 
-This portfolio showcases projects where I use data to solve business problems through interactive dashboards, KPI reporting, and data-driven insights.
+This portfolio showcases projects where I use data to explore business performance through interactive dashboards, KPI reporting, and data visualization.
 
 ---
 
@@ -13,9 +13,7 @@ This portfolio showcases projects where I use data to solve business problems th
 ### Data Analytics
 
 - Power BI
-- SQL
 - Microsoft Excel
-- Python
 - DAX
 - Power Query
 
@@ -24,15 +22,15 @@ This portfolio showcases projects where I use data to solve business problems th
 - Dashboard Development
 - KPI Reporting
 - Data Visualization
-- Business Analysis
-- Data Modeling
+- Sales & Product Performance Analysis
+- HR Analytics
 
 ### IT
 
 - Microsoft 365
-- Azure Active Directory
+- Active Directory / Azure AD
 - ServiceNow
-- Windows Administration
+- Windows & macOS Support
 - Technical Support
 
 ---
@@ -41,11 +39,11 @@ This portfolio showcases projects where I use data to solve business problems th
 
 ## 📈 Amazon Sales Analytics Dashboard
 
-An interactive Power BI dashboard analyzing sales performance, revenue, profit, customer behavior, advertising spend, and product performance across multiple sales channels.
+A two-page interactive Power BI dashboard analyzing e-commerce performance across revenue, profit, orders, products, categories, locations, and time periods.
 
 **Skills Used**
 
-Power BI • DAX • Power Query • Excel • Data Visualization
+Power BI • Power Query • Excel • Data Visualization
 
 ➡️ **Open Project:** [Amazon Sales Dashboard](./Amazon-Sales-Dashboard)
 
@@ -53,10 +51,11 @@ Power BI • DAX • Power Query • Excel • Data Visualization
 
 ## 👥 HR Analytics Dashboard
 
-An HR dashboard designed to analyze employee attrition, workforce demographics, salary distribution, and department performance to support HR decision-making.
+An interactive Power BI dashboard analyzing employee attrition across age, education, salary, job role, job satisfaction, years at company, gender, and department.
 
 **Skills Used**
 
-Power BI • DAX • HR Analytics • KPI Reporting • Data Modeling
+Power BI • DAX • Power Query • HR Analytics • KPI Reporting
 
 ➡️ **Open Project:** [HR Analytics Dashboard](./HR-Analytics-Dashboard)
+```
